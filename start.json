@@ -1,0 +1,12 @@
+{
+  "menu": [
+    {
+      "label": "Zona",
+      "action": "menu:http://m.zona.ms"
+    },
+    {
+      "label": "Lift",
+      "action": "menu:http://lift3.ws"
+    }
+  ]
+}

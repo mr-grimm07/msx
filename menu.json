@@ -9,16 +9,18 @@
    "items": [
       {
          "titleHeader": "Zona",
-         "image": "https://msx.zona.ms/assets/logo_512_512.png",
-         "action": "link:http://m.zona.ms"
+         "image": "https://mr-grimm07.github.io/msx/logo/Zona.png",
+         "action": "link:https://msx.zona.ms"
       },
       {
          "titleHeader": "Lift",
+         "image": "https://mr-grimm07.github.io/msx/logo/Lift.png",
          "action": "link:http://lift3.ws"
       },
       {
          "titleHeader": "Rutube",
-         "action": "link:https://rutube.ru"
+         "image": "https://mr-grimm07.github.io/msx/logo/RuTube.png",
+         "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       }
    ]
 }

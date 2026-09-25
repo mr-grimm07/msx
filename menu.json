@@ -1,0 +1,14 @@
+{
+  "type": "list",
+  "headline": "Мои сервисы",
+  "items": [
+    {
+      "title": "Rutube",
+      "action": "link:window:https://rutube.ru"
+    },
+    {
+      "title": "VK Видео",
+      "action": "link:window:https://vk.com/video"
+    }
+  ]
+}

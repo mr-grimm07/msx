@@ -1,13 +1,5 @@
 {
-  "name": "My Menu",
-  "menu": [
-    {
-      "label": "Zona",
-      "action": "menu:http://m.zona.ms"
-    },
-    {
-      "label": "Lift",
-      "action": "menu:http://lift3.ws"
-    }
-  ]
+  "name": "My MSX",
+  "version": "1.0.0",
+  "parameter": "menu:https://mr-grimm07.github.io/msx/menu.json"
 }

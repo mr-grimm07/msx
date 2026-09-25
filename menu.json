@@ -2,23 +2,25 @@
    "type": "list",
    "headline": "Мои приложения",
    "template": {
-      "type": "default",
-      "layout": "0,0,3,1",
-      "color": "msx-glass"
+      "type": "separate",
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "imageFiller": "fit",
+      "alignment": "center"
    },
    "items": [
       {
-         "titleHeader": "Zona",
+         "title": "Zona",
          "image": "https://mr-grimm07.github.io/msx/logo/Zona.png",
          "action": "link:https://msx.zona.ms"
       },
       {
-         "titleHeader": "Lift",
+         "title": "Lift",
          "image": "https://mr-grimm07.github.io/msx/logo/Lift.png",
          "action": "link:http://lift3.ws"
       },
       {
-         "titleHeader": "Rutube",
+         "title": "Rutube",
          "image": "https://mr-grimm07.github.io/msx/logo/RuTube.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       }

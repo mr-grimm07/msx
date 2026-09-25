@@ -1,14 +1,24 @@
 {
-  "type": "list",
-  "headline": "Мои сервисы",
-  "items": [
-    {
-      "title": "Rutube",
-      "action": "link:window:https://rutube.ru"
-    },
-    {
-      "title": "VK Видео",
-      "action": "link:window:https://vk.com/video"
-    }
-  ]
+   "type": "list",
+   "headline": "Мои приложения",
+   "template": {
+      "type": "default",
+      "layout": "0,0,3,1",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "titleHeader": "Zona",
+         "image": "https://msx.zona.ms/assets/logo_512_512.png",
+         "action": "link:http://m.zona.ms"
+      },
+      {
+         "titleHeader": "Lift",
+         "action": "link:http://lift3.ws"
+      },
+      {
+         "titleHeader": "Rutube",
+         "action": "link:https://rutube.ru"
+      }
+   ]
 }

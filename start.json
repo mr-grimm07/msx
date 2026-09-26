@@ -1,6 +1,6 @@
 {
   "name": "My MSX",
-  "version": "1.0.8",
-  "dictionary": "https://mr-grimm07.github.io/msx/dict_v2.json",
+  "version": "1.0.1",
+  "dictionary": "https://mr-grimm07.github.io/msx/dictionary.json",
   "parameter": "content:https://mr-grimm07.github.io/msx/menu.json"
 }

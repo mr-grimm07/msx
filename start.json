@@ -1,9 +1,6 @@
 {
-  "name": "TEST_START",
-  "version": "1.0.5",
+  "name": "My MSX",
+  "version": "1.0.1",
   "dictionary": "https://mr-grimm07.github.io/msx/dictionary.json",
-  "parameter": "content:https://mr-grimm07.github.io/msx/menu.json",
-  "launcher": {
-     "image": "https://mr-grimm07.github.io/msx/logo/Zona.png"
-  }
+  "parameter": "content:https://mr-grimm07.github.io/msx/menu.json"
 }

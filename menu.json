@@ -2,7 +2,6 @@
    "type": "list",
    "headline": "Мои приложения",
    "template": {
-      "dictionary": "https://mr-grimm07.github.io/msx/dictionary.json",
       "type": "separate",
       "layout": "0,0,2,3",
       "color": "msx-glass",

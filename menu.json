@@ -11,17 +11,17 @@
    "items": [
       {
          "title": "Zona",
-         "image": "https://mr-grimm07.github.io/msx/logo/Zona.png",
+         "image": "logo/Zona.png",
          "action": "link:https://msx.zona.ms"
       },
       {
          "title": "Lift",
-         "image": "https://mr-grimm07.github.io/msx/logo/Lift.png",
-         "action": "link:http://lift3.ws"
+         "image": "logo/Lift.png",
+         "action": "execute:https://msx.benzac.de/plugins/browser.html?url=http://lift3.ws"
       },
       {
          "title": "Rutube",
-         "image": "https://mr-grimm07.github.io/msx/logo/RuTube.png",
+         "image": "logo/RuTube.png",
          "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       }
    ]

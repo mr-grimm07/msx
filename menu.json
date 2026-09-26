@@ -3,7 +3,7 @@
    "headline": "Мои приложения",
    "template": {
       "type": "separate",
-      "layout": "0,0,2,2",
+      "layout": "0,0,2,3",
       "color": "msx-glass",
       "imageFiller": "fit",
       "alignment": "center"
@@ -17,7 +17,7 @@
       {
          "title": "Lift",
          "image": "https://mr-grimm07.github.io/msx/logo/Lift.png",
-         "action": "content:http://lift3.ws"
+         "action": "link:http://lift3.ws"
       },
       {
          "title": "Rutube",

@@ -11,22 +11,22 @@
    "items": [
       {
          "title": "Zona",
-         "image": "logo/Zona.png",
+         "image": "https://mr-grimm07.github.io/msx/logo/Zona.png",
          "action": "link:https://msx.zona.ms"
       },
       {
          "title": "Lift",
-         "image": "logo/Lift.png",
+         "image": "https://mr-grimm07.github.io/msx/logo/Lift.png",
          "action": "link:https://liftw.ws/"
       },
       {
          "title": "Lampa",
-         "image": "logo/Lampa.png",
+         "image": "https://mr-grimm07.github.io/msx/logo/Lampa.png",
          "action": "link:https://lampa.mx"
       },
       {
          "title": "Prisma TV",
-         "image": "logo/Prisma.png",
+         "image": "https://mr-grimm07.github.io/msx/logo/Prisma.png",
          "action": "link:https://prisma.ws/"
       }
    ]
